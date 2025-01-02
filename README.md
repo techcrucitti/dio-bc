@@ -31,9 +31,8 @@ DIO Cybersecurity Boot Camp
 
 - ![Alt text](./fb-cloning.png)
 
-### Em uma máquina 'cobaia', faça o acesso no navegador busacando pelo IP configurado
-
+### Em uma máquina 'cobaia', faça o acesso no navegador busacando pelo IP configurado e digite as credenciais
+- ![Alt text](./cloned-page.png)
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+![Alt text](./password.png)
