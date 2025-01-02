@@ -8,5 +8,6 @@ DIO Cybersecurity Boot Camp
 - setoolkit
 
 ## Como criar um site clonado para roubar credenciais
-- Altere para o modo privilegiado "root"
--- ``` sudo su ```
+- Altere para o modo privilegiado "root": ``` sudo su ```
+- Execute a ferramenta SEToolkit: ``` setoolkit ```
+- 
