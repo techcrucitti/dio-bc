@@ -11,10 +11,17 @@ DIO Cybersecurity Boot Camp
 - Altere para o modo privilegiado "root": ``` sudo su ```
 - Execute a ferramenta SEToolkit: ``` setoolkit ```
 - Selecione o Tipo de ataque: ```1) Social-Engineering Attacks ```
-![Alt text](./attk-type-1.png)
+- ![Alt text](./attk-type-1.png)
+
 - Vetor de ataque: ``` Web Site Attack Vectors ```
+- ![Alt text](./web-attk-vector.png)
+
 - Método de ataque: ```Credential Harvester Attack Method ```
+- ![Alt text](./attk-met-cred-harv.png)
+  
 - Método de ataque: ``` Site Cloner ```
+- ![Alt text](./site-cloner.png)
+  
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
